@@ -1,1 +1,1 @@
-# TDD-wrockshop
+# Practising TDD by creating a dice app
